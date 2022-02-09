@@ -1,4 +1,5 @@
-# 🎈 H1 Coding Study Club
+# [2022-html-project]
+## 🎈 H1 Coding Study Club
 > #### 2022년 **h1 코딩 스터디**입니다.  
 > <img src="https://user-images.githubusercontent.com/83990943/153243979-b8387383-49b0-4f96-88fe-92ecc19dff94.png"
        width="30%" height="30%">
