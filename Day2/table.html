@@ -1,15 +1,26 @@
 <html>
   <body>
     <table border="2">
+
+    <thead>  <!--항상 위에 고정-->
     <tr>
-      <td>이름</td> <td>성별</td> <td>주소</td>
+      <th>이름</th> <th>성별</th> <th>주소</th> <th>회비</th>
+    </tr>
+    </thead>
+
+    <tbody>
+    <tr>
+      <td>최진혁</td> <td>남</td> <td>청주</td> <td>1000</td>
     </tr>
     <tr>
-      <td>최진혁</td> <td>남</td> <td>청주</td>
+      <td>최여빈</td> <td>여</td> <td>청주</td> <td>500</td>
     </tr>
-    <tr>
-      <td>최여빈</td> <td>여</td> <td>청주</td>
-    </tr>
+    </tbody>
+
+    <tfoot>  <!--항상 밑에 고정-->
+      <td>합계</td> <td></td> <td></td> <td>1500</td>
+    </tfoot>
+
     </table>
   </body>
 </html>
