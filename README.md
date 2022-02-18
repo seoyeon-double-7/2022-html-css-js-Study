@@ -20,3 +20,5 @@
 #### 4. 회고
 * 온라인으로 스터디를 하며, 깃허브 커밋 및 노션으로 회고 합니다.  
 * [👉노션 회고록](https://incongruous-vanadium-119.notion.site/fa55d14b8abd4c31a330aa3ca79ce41b)
+<br><br><br>
+<img src="https://user-images.githubusercontent.com/83990943/154650188-1d3d428e-206b-4b65-882b-2dabefdbde4f.png" width=700px>
