@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <style>
+      #wrap{
+        width:800px;
+        margin:0 auto;
+      }
+      #header{
+        border-bottom: 1px solid #cccccc;
+      }
+      #content a{
+        text-decoration:none;
+      }
+      #content a::after{
+        content: ' - ' attr(href);
+      }
+      #content li:not(.fa){
+        background-color:pink;
+      }
+      #footer {
+        border-top: 1px solid #cccccc;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="wrap">
+      <div id="header">
+        <h1>Cindy의 블로그</h1>
+      </div>
+
+      <div id="content">
+        <ul>
+          <li><a href="http://naver.com" target="_blank">cindy의 네이버블로그</a></li>
+          <li class="fa"><a href="http://naver.com" target="_blank">cindy의 티스토리</a></li>
+          <li><a href="http://naver.com" target="_blank">cindy의 깃허브블로그</a></li>
+        </ul>
+      </div>
+
+      <div id="footer">
+        <p>COPYRIGHT@2022 cindy.tistory.com</p>
+      </div>
+    </div>
+  </body>
+</html>
