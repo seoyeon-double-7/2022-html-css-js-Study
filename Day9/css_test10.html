@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <style>
+        #wrap{
+          width : 800px;
+          margin : 0 auto;
+        }
+        #header{
+          border-bottom : 1px solid #cccccc
+        }
+        #history2:first-letter, #history1:first-letter{
+          font-size : 2em;
+        }
+        #content p::selection{
+          background-color : pink;
+          color : white;
+        }
+        #history2:first-line, #history1:first-line{
+          font-weight:bold;
+          color:blue;
+        }
+        #footer ul{
+          overflow : hidden;
+          border: 2px solid #cccccc;
+        }
+        #footer ul li{
+          list-style : none;
+          float : left; pading : 20px;
+        }
+        img{
+          height : 150px;
+        }
+    </style>
+  </head>
+  <body>
+    <div id="wrap">
+      <div id="header">
+        <h1>설립개요</h1>
+      </div>
+
+      <div id="content">
+        <p>
+          걱정이나 아무 탈이 없음을 의미하는 한자어인 동시에 한국에서는
+          흔히 쓰는 인사말. 특이사항이 있다면 만날 때와 헤어질 때 둘 다
+          사용하는 인사말이라는 점이다.[3] 전자의 존댓말으로는
+          안녕하세요라는 인사말이 있다. 후자의 존댓말로는
+          “안녕히 계세요” 와 “안녕히 가세요”가 있다.
+          “안녕히 계세요”는 말하는 본인이 어딘가로 갈 때 주로 쓰이고
+          “안녕히 가세요”는 상대방이 어딘가로 갈 때 주로 쓰이는 표현이다.
+        </p>
+        <p id="history2">
+          2014년 03월31일<br> 서울산업진흥원 사명변경 06월 30일 서울산업진흥원 상임 DMC 이전
+        </p>
+        <p id="history1">
+          2013년 01월 12일<br> 다누리 시민청 개관 05월 09일 꿈꾸는 청년가게 명동점 개관 05일 10일 큐빙
+        </p>
+      </div>
+      <div id="footer">
+        <ul>
+          <li ><img class="footer1" src="footer2.jpg" alt=""></li>
+          <li><img src="footer1.jpg" alt=""></li>
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>
