@@ -23,3 +23,4 @@
 * [👉노션 회고록](https://incongruous-vanadium-119.notion.site/fa55d14b8abd4c31a330aa3ca79ce41b)
 <br><br><br>
 <img src="https://user-images.githubusercontent.com/83990943/154650188-1d3d428e-206b-4b65-882b-2dabefdbde4f.png" width=700px>
+<img src="https://user-images.githubusercontent.com/83990943/154833683-307e7244-0490-4cb8-81bd-12ee76bccbae.png" width=700px>
