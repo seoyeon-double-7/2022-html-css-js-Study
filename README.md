@@ -16,7 +16,7 @@
 
 #### 3. 참고 강의  
 * [생활코딩](https://www.youtube.com/watch?v=OGFgdro160I&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB) 
-* [인프런] (https://www.inflearn.com/course/html-css-%EA%B0%95%EC%A2%8C/dashboard)
+* [인프런](https://www.inflearn.com/course/html-css-%EA%B0%95%EC%A2%8C/dashboard)  
 
 #### 4. 회고
 * 온라인으로 스터디를 하며, 깃허브 커밋 및 노션으로 회고 합니다.  
